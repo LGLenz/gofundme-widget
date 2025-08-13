@@ -1,7 +1,7 @@
 
 # Elias — GoFundMe Fundraising Page
 
-This is a professional-looking static webpage to help raise funds for Elias's Cybersecurity PhD via GoFundMe.
+This is a professional-looking static webpage to help raise funds for my part-time selfsponsored, distance learning Cybersecurity PhD via GoFundMe.
 
 ## How to publish on GitHub Pages
 
